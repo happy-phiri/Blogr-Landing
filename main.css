@@ -198,7 +198,7 @@ header {
 }
 
 .main-header .btn {
-    font-size: 1rem;
+    font-size: 0.75rem;
 }
 
 .main-header .btn, .cta .btn, .cta-hidden2:last-of-type {
